@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @msilucifer
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently learning BlockChain
+- 💞️ I’m looking to collaborate on Web Development
 
 ### Languages and Tools:
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/msilucifer/)](https://github.com/msilucifer/)
@@ -17,9 +16,9 @@
 [![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress)](https://github.com/msilucifer/)
 
 [![Django](https://img.shields.io/badge/-django-black?style=flat&logo=django)](https://github.com/msilucifer/)
-[![DataScience](https://github.com/msilucifer/msilucifer/blob/master/Badges/datascience.png)](https://github.com/msilucifer/)
+[![DataScience](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/datascience.png)](https://github.com/msilucifer/)
 [![ML](https://img.shields.io/badge/-Machine%20Learning-102230?style=flat)](https://github.com/msilucifer/)
-[![AI](https://github.com/msilucifer/msilucifer/blob/master/Badges/ai.png)](https://github.com/msilucifer/)
+[![AI](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/ai.png)](https://github.com/msilucifer/)
 
 [![Jira](https://img.shields.io/badge/-Jira-222222?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)](https://github.com/msilucifer/)
 [![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)](https://github.com/msilucifer/)
@@ -27,8 +26,8 @@
 
 [![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-3C4858?style=flat&logo=sublime-text)](https://github.com/msilucifer/)
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/msilucifer/)
-[![Visual Studio](https://github.com/msilucifer/msilucifer/blob/master/Badges/visualstudio.png)](https://github.com/msilucifer/)
-[![PyCharm](https://github.com/msilucifer/msilucifer/blob/master/Badges/pycharm.png)](https://github.com/msilucifer/)
+[![Visual Studio](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/visualstudio.png)](https://github.com/msilucifer/)
+[![PyCharm](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/pycharm.png)](https://github.com/msilucifer/)
 
 [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/msilucifer/)](https://github.com/msilucifer/)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/msilucifer/)](https://github.com/msilucifer/) 
@@ -54,7 +53,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=SvenCelin.SvenCelin) <br>
 <br />
 
-[github]: https://github.com/SvenCelin/
+[github]: https://github.com/msilucifer/
 
 <!---
 msilucifer/msilucifer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
