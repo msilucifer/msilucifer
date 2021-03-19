@@ -1,3 +1,4 @@
+### About Me:
 - 👋 Hi, I’m @msilucifer
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning BlockChain
@@ -14,6 +15,10 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/msilucifer/)](https://github.com/msilucifer/)
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/msilucifer/)](https://github.com/msilucifer/)
 [![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress)](https://github.com/msilucifer/)
+
+[![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=white&link=https://github.com/msilucifer/)](https://github.com/msilucifer/) 
+[![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white&link=https://github.com/msilucifer/)](https://github.com/msilucifer/) 
+[![VueJS](https://img.shields.io/badge/VueJS-41B883??style=flat&logo=vue.js&logoColor=white&link=https://github.com/msilucifer/)](https://github.com/msilucifer/) 
 
 [![Django](https://img.shields.io/badge/-django-black?style=flat&logo=django)](https://github.com/msilucifer/)
 [![DataScience](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/datascience.png)](https://github.com/msilucifer/)
