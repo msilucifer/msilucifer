@@ -36,22 +36,17 @@
 
 --- 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SvenCelin&theme=white" /> 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msilucifer&theme=white" /> 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=SvenCelin&repo=Information-Visualisation&theme=white" /><br /><br /><br /><br /><br /><br />
+<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=msilucifer&repo=Information-Visualisation&theme=white" /><br /><br /><br /><br /><br /><br />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=SvenCelin&repo=NFC-doorlock---atmega-16a&theme=white" /><br /><br /><br /><br /><br /><br /><br />
+<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=msilucifer&repo=NFC-doorlock---atmega-16a&theme=white" /><br /><br /><br /><br /><br /><br /><br />
 
-<img align="center" alt="SvenC's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SvenCelin&show_icons=true&hide_border=true" /><br /><br />
+<img align="center" alt="msilucifer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=msilucifer&show_icons=true&hide_border=true" /><br /><br />
 
 ---
 
 ### Connect with me:
-
-[<img align="left" alt="SvenC | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="SvenC | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-![visitors](https://visitor-badge.glitch.me/badge?page_id=SvenCelin.SvenCelin) <br>
-<br />
 
 [github]: https://github.com/msilucifer/
 
