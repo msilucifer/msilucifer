@@ -1,8 +1,8 @@
 ### About Me:
 - 👋 Hi, I’m @msilucifer
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning BlockChain
-- 💞️ I’m looking to collaborate on Web Development
+- 🌱 I’m currently focusing on Smart Contract and BlockChain
+- 💞️ I’m looking to collaborate on Smart Contract Development
 
 ### Languages and Tools:
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/msilucifer/)](https://github.com/msilucifer/)
