@@ -9,12 +9,14 @@
 [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/msilucifer/)](https://github.com/msilucifer/)
 [![C&C++](https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff&link=https://github.com/msilucifer/)](https://github.com/msilucifer/)
 
+[![Solidity](https://github.com/msilucifer/msilucifer/blob/master/solidity.png)](https://github.com/msilucifer/)
+
+
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/msilucifer/)](https://github.com/msilucifer/) 
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/msilucifer/)](https://github.com/msilucifer/) 
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/msilucifer/)](https://github.com/msilucifer/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/msilucifer/)](https://github.com/msilucifer/)
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/msilucifer/)](https://github.com/msilucifer/)
-[![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress)](https://github.com/msilucifer/)
 
 [![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=white&link=https://github.com/msilucifer/)](https://github.com/msilucifer/) 
 [![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white&link=https://github.com/msilucifer/)](https://github.com/msilucifer/) 
