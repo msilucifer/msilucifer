@@ -55,10 +55,6 @@
 
 <img align="center" alt="msilucifer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=msilucifer&show_icons=true&hide_border=true" /><br /><br />
 
----
-
-### Connect with me:
-
 [github]: https://github.com/msilucifer/
 
 <!---
