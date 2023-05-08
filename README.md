@@ -53,7 +53,7 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msilucifer&theme=radical" /> 
 
-<img align="center" alt="msilucifer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=msilucifer&show_icons=true&hide_border=true&theme=radical" /><br /><br />
+<img align="center" alt="msilucifer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=msilucifer&show_icons=true&hide_border=false&theme=radical" /><br /><br />
 
 [github]: https://github.com/msilucifer/
 
